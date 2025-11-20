@@ -15,7 +15,13 @@
 # Базы данных-ERD
 ERD Effective Mobile.drawio (2).png
 
-# Интеграции
+
+
+# Интеграции 
+1) Проектирование API
+https://github.com/PKseniiaT/Test-Case-Effective-Mobile/blob/main/Shop%20Plus%20API.postman_collection.json
+
+2) Sequence
 
 
 
